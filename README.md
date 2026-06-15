@@ -186,6 +186,7 @@ A collection of resources useful for OSINT Investigations on Cryptocurrencies an
 | [Vivigle](https://vivigle.com/) | A global cryptoRatings and Analytics Platform |
 | [Walletlabels](https://www.walletlabels.xyz/) | Search engine based on a collection of more than 7.5M ETH labeled addresses | 
 | [Dune](https://dune.com/browse/dashboards) | A community driven dashboards collection, useful for exploring ETH, TOKENS and NFT | 
+| [CryptoAML.ai](https://cryptoaml.ai) | A free crypto wallet AML / OFAC sanctions risk check, no signup required. It supports 30+ chains and is also available as a Telegram bot (@scorechain_amlbot) |
 
 ### ETH Other
 | Link | Description |
